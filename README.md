@@ -10,7 +10,10 @@ CNN(16) – MaxPooling – CNN(32) – MaxPooling – CNN(64) – MaxPooling– 
    The datasets was taken from different sources to make our data bigger and the code was inspired by the following references:
 
 Tensorflow documentation: https://www.tensorflow.org/tutorials/images/classification
+
 dataset from: https://www.kaggle.com/aelchimminut/fruits262
+
 dataset from: https://www.kaggle.com/databeru/classify-15-fruits-with-tensorflow-acc-99-6/data
+
 dataset from: https://www.kaggle.com/moltean/fruit
 
