@@ -8,6 +8,7 @@ CNN(16) – MaxPooling – CNN(32) – MaxPooling – CNN(64) – MaxPooling– 
    In addition, we apply data augmentation to avoid overfitting since we faced this problem in the beginning. We also print the predictions of images that is different from the dataset. Some of these images were taken by us. However, the code has more detailed comments for each block. 
 
    The datasets was taken from different sources to make our data bigger and the code was inspired by the following references:
+
 Tensorflow documentation: https://www.tensorflow.org/tutorials/images/classification
 dataset from: https://www.kaggle.com/aelchimminut/fruits262
 dataset from: https://www.kaggle.com/databeru/classify-15-fruits-with-tensorflow-acc-99-6/data
